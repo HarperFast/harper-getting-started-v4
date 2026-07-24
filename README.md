@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **This repository is archived and read-only.**
+>
+> It's a snapshot for the content contained within.
+> It is pinned to **Harper v<major>** and is preserved for reference.
+> It is **not** kept in sync with current releases and may not be supported in latest Harper versions.
+>
+> For up-to-date guides and reference docs, see the [Harper docs](https://docs.harperdb.io) and join our [Discord](https://discord.com/invite/VzZuaw3Xay).
+
 # Harper Getting Started
 
 **What it is:** Batteries-included developer toolbox for Harper.
