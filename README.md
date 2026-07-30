@@ -1,11 +1,11 @@
 > [!IMPORTANT]
 > **This repository is archived and read-only.**
 >
-> It's a snapshot for the content contained within.
+> It's a point-in-time snapshot built to accompany [Harper + Docker + Grafana: Local Setup Guide](https://www.harper.fast/resources/harper-docker-grafana-local-setup-guide).
 > It is pinned to **HarperDB v4** and is preserved for reference.
 > It is **not** kept in sync with current releases and may not be supported in latest Harper versions.
 >
-> For up-to-date guides and reference docs, see the [Harper docs](https://docs.harperdb.io) and join our [Discord](https://discord.com/invite/VzZuaw3Xay).
+> For up-to-date guides and reference docs, see the [Harper docs](https://docs.harper.fast) and join our [Discord](https://harper.fast/discord).
 
 # Harper Getting Started
 
